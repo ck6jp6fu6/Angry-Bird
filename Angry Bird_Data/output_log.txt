@@ -1,0 +1,50 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M        (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     1972 MB
+    Driver:   10.18.14.4170
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\NTU\105_2\Game Design\Angry Bird\Angry Bird_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\NTU\105_2\Game Design\Angry Bird\Angry Bird_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\NTU\105_2\Game Design\Angry Bird\Angry Bird_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\NTU\105_2\Game Design\Angry Bird\Angry Bird_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\NTU\105_2\Game Design\Angry Bird\Angry Bird_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\NTU\105_2\Game Design\Angry Bird\Angry Bird_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\NTU\105_2\Game Design\Angry Bird\Angry Bird_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\NTU\105_2\Game Design\Angry Bird\Angry Bird_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\NTU\105_2\Game Design\Angry Bird\Angry Bird_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\NTU\105_2\Game Design\Angry Bird\Angry Bird_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\NTU\105_2\Game Design\Angry Bird\Angry Bird_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\NTU\105_2\Game Design\Angry Bird\Angry Bird_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.143 seconds
+Platform assembly: D:\NTU\105_2\Game Design\Angry Bird\Angry Bird_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\NTU\105_2\Game Design\Angry Bird\Angry Bird_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.069704 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.868131 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 385.
+Total: 0.235637 ms (FindLiveObjects: 0.050035 ms CreateObjectMapping: 0.011974 ms MarkObjects: 0.159942 ms  DeleteObjects: 0.012401 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.136705 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 306.
+Total: 0.613256 ms (FindLiveObjects: 0.080826 ms CreateObjectMapping: 0.050890 ms MarkObjects: 0.326728 ms  DeleteObjects: 0.153527 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.298075 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 421.
+Total: 0.217676 ms (FindLiveObjects: 0.042337 ms CreateObjectMapping: 0.014112 ms MarkObjects: 0.152672 ms  DeleteObjects: 0.007697 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 278c -> priority: 1 

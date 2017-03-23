@@ -49,6 +49,7 @@ public class Restart : MonoBehaviour {
 		times--;
 		int level = Application.loadedLevel;
 		if (damage.currentHitPoints <= 0) {
+			times++;
 			if (level == 1)
 				Application.LoadLevel (3); //Next Level
 			else if (level == 4)
