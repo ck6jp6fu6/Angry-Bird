@@ -16,9 +16,9 @@ public class Damage : MonoBehaviour {
 	private Collider2D collider2D;
 	private Rigidbody2D rigidbody2D;
 
-	void Awake(){
-		DontDestroyOnLoad (this);
-	}
+	//void Awake(){
+	//	DontDestroyOnLoad (this);
+	//}
 	// Use this for initialization
 	void Start () {
 		spriteRenderer = GetComponent<SpriteRenderer> ();
