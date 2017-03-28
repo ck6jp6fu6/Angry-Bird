@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Damage : MonoBehaviour {
 
-	public int hitPoints = 2;
+	public int hitPoints = 1;
 	public Sprite damagedSprite;
 	public float damageImpactSpeed;
 	public AudioSource diemusic;
@@ -32,8 +32,8 @@ public class Damage : MonoBehaviour {
 	void OnCollisionEnter2D (Collision2D collision) {
 		if (collision.collider.tag != "Damager")
 			return;
-		if (collision.relativeVelocity.sqrMagnitude < damageImpactSpeedSqr)
-			return;
+		//if (collision.relativeVelocity.sqrMagnitude < damageImpactSpeedSqr)
+		//	return;
 
 		spriteRenderer.sprite = damagedSprite;
 		currentHitPoints--;

@@ -44,7 +44,7 @@ public class Dragging : MonoBehaviour {
 			if (!rigidbody2D.isKinematic && prevVelocity.sqrMagnitude > rigidbody2D.velocity.sqrMagnitude) {
 				Destroy (spring);
 				shootmusic.Play ();
-				//rigidbody2D.velocity = prevVelocity;
+				rigidbody2D.velocity = prevVelocity;
 			}
 			if (clickedOn)
 				DraggingAct ();
